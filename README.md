@@ -8,7 +8,8 @@ I'm a Junior at the University of Information Technology, majoring in Informatio
 
 ## 💻 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pnhitd&show_icons=true&theme=default&include_all_commits=true" alt="Phương Nhi's GitHub stats"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pnhitd&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="Phương Nhi's GitHub stats"/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnhitd&theme=default&hide_border=false" alt="GitHub Streak"/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnhitd&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
+
