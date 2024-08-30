@@ -1,5 +1,5 @@
 ## 💫 About Me<br>
-I'm a Junior at the University of Information Technology, majoring in Information Technology. I'm passionate about frontend development, UI/UX design, and the Japanese language as well as culture.
+I'm a Junior at the University of Information Technology-VNUHCM, majoring in Information Technology. I'm passionate about frontend development, UI/UX design, and the Japanese language as well as culture.
 
 ## 📫 How to Reach Me
 - Portfolio: [View My Portfolio](https://portfolio-780o.onrender.com/)
